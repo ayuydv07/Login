@@ -26,11 +26,11 @@ A clean, responsive login interface built with Flutter. This project focuses on 
    git clone https://github.com/ayyudv07/Login.git
    ```
 
-2. **Install Dependecies**
- ```bash
+2. **Install Dependecies:**
+    ```bash
    flutter pub get
-```
-
+   ```
+    
 3. **Run the application:**
    ```bash
    flutter run
